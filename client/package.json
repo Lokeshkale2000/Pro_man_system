@@ -1,4 +1,5 @@
 {
+  "homepage": "http://Lokeshkale2000.github.io/Pro_man_system",
   "name": "frontend",
   "version": "0.1.0",
   "private": true,
@@ -18,7 +19,6 @@
     "axios": "^1.1.3",
     "dotenv": "^10.0.0",
     "firebase": "^9.13.0",
-    "gh-pages": "^4.0.0",
     "jwt-decode": "^3.1.2",
     "react": "^18.2.0",
     "react-cookie": "^4.1.1",
@@ -63,5 +63,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^6.1.1"
   }
 }
